@@ -1,4 +1,2 @@
 hello world
-hello world
-hello world
-hello world
+现在是在hot fix 分支上修改的  ADD添加到缓存区 commit提交到本地库
