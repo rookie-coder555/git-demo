@@ -1,2 +1,3 @@
 hello world
 现在是在hot fix 分支上修改的  ADD添加到缓存区 commit提交到本地库
+现在是练习远程库上修改然后再pull回本地库
